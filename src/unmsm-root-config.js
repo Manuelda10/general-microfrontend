@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { registerApplication, start } from "single-spa";
 import {
   constructApplications,
